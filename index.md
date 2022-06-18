@@ -1,8 +1,8 @@
-# Larry Plotter
+# Larry Potter
 
-* Larry Plotter y el bucle filosofal
-* Larry Plotter y la clave secreta
-* Larry Plotter y el prisionero del firewall
+* Larry Potter y el bucle filosofal
+* Larry Potter y la clave secreta
+* Larry Potter y el prisionero del firewall
 * Larry Plotter y el malware de fuego
 * Larry Plotter y la orden de Unix
 * Larry Plotter y el miesterio del hacker
